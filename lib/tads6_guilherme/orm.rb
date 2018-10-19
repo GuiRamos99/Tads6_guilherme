@@ -6,6 +6,7 @@ module Tads6_Guilherme
   class ORM
   def self.criar(*atributos)
     id = proximo_id
+    system 'mkdir', '-p', 'foo/bar' => true
     File.open("#{path}/#{id}.yml", "a") do |arquivo|
       obj = self.new atributos
       obj.id = id
