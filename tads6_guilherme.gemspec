@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["guilhermedesramos@gmail.com"]
 
   spec.summary       = "Gem básica para Mapeamento Objeto Relacional"
-  spec.description   = "Este é um projeto desenvolvido para  demostrar aos estudantes o uso e a aplicação de bibliotecas (gem) para o encapsulamento funcionalidades genéricas que podem ser utilizadas em outros projetos. Outro objetivo atrelado a esta atividade relaciona-se ao conteúdo teórico sobre ORM (Mapeamento Objeto Relacional), os quais foram apresentados em aulas de Tópicos Especiais em Tecnologia da Informação no Institulo Federal de Mato Grosso do Sul, Campus de Naviraí, e são aplicados de forma prática neste."
+  spec.description   = "Este é um trabalho da faculdade de Tecnologia e Analise e Desenvolvimento, dado pelo professor para que os estudantes aprendam o uso e de bibliotecas (gem). Além disso, relaciona-se ao conteúdo teórico sobre ORM (Mapeamento Objeto Relacional), os quais foram mostrados nas aulas de Tópicos Especiais em Tecnologia da Informação no IFMS 6º Semestre, Campus de Naviraí."
   spec.homepage      = "http://www.ifms.edu.br"
   spec.license       = "MIT"
 
