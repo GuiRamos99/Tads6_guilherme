@@ -1,6 +1,6 @@
 # Tads6_Guilherme
 
-  Este é um trabalho da faculdade de Tecnologia e Analise e Desenvolvimento, dado pelo professor para que os estudantes aprendam o uso e de bibliotecas (gem). Além disso, relaciona-se ao conteúdo teórico sobre ORM (Mapeamento Objeto Relacional), os quais foram mostrados nas aulas de Tópicos Especiais em Tecnologia da Informação no IFMS 6º Semestre, Campus de Naviraí, e são aplicados de forma prática neste.
+  Este é um trabalho da faculdade de Tecnologia e Analise e Desenvolvimento, dado pelo professor para que os estudantes aprendam o uso e de bibliotecas (gem). Além disso, relaciona-se ao conteúdo teórico sobre ORM (Mapeamento Objeto Relacional), os quais foram mostrados nas aulas de Tópicos Especiais em Tecnologia da Informação no IFMS 6º Semestre, Campus de Naviraí.
 
 ## Instalação
 
@@ -28,7 +28,7 @@ Primeiro crie um novo arquivo e adicione uma classe a qual você deseja persisti
 # Require necessário
 require 'tads6_guilherme'
 
-# Sua classe deve herdar a classe TarcisiobragsTads::ORM
+# Sua classe deve herdar a classe Tads6_Guilherme::ORM
 class ExemploClasse < Tads6_Guilherme::ORM
   # Toda classe deve conter um :ID obrigatoriamente
   attr_accessor :id, :modelo

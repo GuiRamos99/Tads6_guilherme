@@ -1,3 +1,3 @@
-module TarcisiobragsTads
-  VERSION = "1.1.4"
+module Tads6_Guilherme
+  VERSION = "1.2.0"
 end

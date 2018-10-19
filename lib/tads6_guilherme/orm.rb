@@ -1,7 +1,7 @@
 require "yaml"
 require "fileutils"
 
-module TarcisiobragsTads
+module Tads6_Guilherme
 
   class ORM
   def self.criar(*atributos)
